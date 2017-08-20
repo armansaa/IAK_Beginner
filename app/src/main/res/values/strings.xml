@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectIAK</string>
+    <string-array name="Bakers">
+        <item>Kue1</item>
+        <item>Kue2</item>
+        <item>Kue3</item>
+        <item>Kue4</item>
+        <item>Kue5</item>
+        <item>Kue6</item>
+        <item>Kue7</item>
+        <item>Kue8</item>
+        <item>Kue9</item>
+        <item>Kue10</item>
+    </string-array>
+</resources>
